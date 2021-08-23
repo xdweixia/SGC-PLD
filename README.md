@@ -1,7 +1,7 @@
 ## Self-supervised graph convolutional clustering by preserving latent distribution
 
 Simple implementation of our paper SGC-PLD.
-The details can be found in the Neurocomputing-21 paper [here](https://doi.org/10.1016/j.neucom.2021.01.082).
+The details can be found in the [Neurocomputing-21 paper](https://doi.org/10.1016/j.neucom.2021.01.082).
 
 ### requirements
 - Tensorflow 1.13.1
